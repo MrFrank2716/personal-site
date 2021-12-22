@@ -5,7 +5,7 @@ I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build to
 
 # Currently
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
+To be written
 
 # Some history
 
@@ -80,7 +80,6 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - always finding inspiration.
 - enabling a brighter future.
 - doing better.
-- you not checking the commit history for earlier drafts of this file.
 
 # Websites from people I admire
 
